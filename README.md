@@ -19,8 +19,8 @@
 | lineColorMax          |  干扰线颜色色值最大值，最大为255   |  number   |   180     |
 | dotColorMin           |  干扰点颜色色值最小值，最小为0     |  number   |   0       |
 | dotColorMax           |  干扰点颜色色值最大值，最大为255   |  number   |   255     |
-| contentWidth          |  画布大小，最小值                 |  number   |   160     |
-| contentHeight         |  画布大小，最大值                 |  number   |   40      |
+| contentWidth          |  画布宽度                        |  number   |   160     |
+| contentHeight         |  画布高度                        |  number   |   40      |
 
 ## Demo
 ```
