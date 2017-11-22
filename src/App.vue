@@ -26,7 +26,7 @@ export default {
     },
     makeCode (o, l) {
       for (let i = 0; i < l; i++) {
-        this.identifyCode += this.identifyCodes[this.randomNum(0, l)]
+        this.identifyCode += this.identifyCodes[this.randomNum(0, this.identifyCodes.length)]
       }
     }
   },
