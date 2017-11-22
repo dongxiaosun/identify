@@ -1,7 +1,7 @@
 # identify(生成验证码图片)
 
-> This is a digital graphic verification code written in canvas
-> 这是一个vue的插件，使用canvas来生成图形验证码
+>+ This is a digital graphic verification code written in canvas
+>+ 这是一个vue的插件，使用canvas来生成图形验证码
 
 
 ## Attributes
